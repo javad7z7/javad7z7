@@ -13,16 +13,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=javad7z7&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=javad7z7&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=javad7z7&theme=onestar&no-frame=true&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=javad7z7&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=javad7z7&icon=1&color=8)](https://visitcount.itsvg.in)
