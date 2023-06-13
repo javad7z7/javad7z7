@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Sepehrcc Products & Nojahan<br>🌱 I’m currently learning React, Nodejs<br>💬 Ask me about Javascript & linux<br>⚡ Backend and Devops More exciting than Frontend
+🔭 I’m currently working on Sepehrcc Products <br>🌱 I’m currently learning React, Nodejs<br>💬 Ask me about Javascript & linux<br>⚡ Backend and Devops More exciting than Frontend
 
 
 ## 🌐 Socials:
